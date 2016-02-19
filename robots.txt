@@ -4,3 +4,4 @@ Disallow: /logo/
 Disallow: /other_images/
 Disallow: /404/
 Disallow: /zohoverify/
+Disallow: /reaction_trainer_images/
